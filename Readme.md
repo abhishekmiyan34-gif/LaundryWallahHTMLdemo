@@ -1,6 +1,7 @@
 # Laundry Wallah
 
 A simple HTML practice project that showcases a landing page for a fictional laundry service called **Laundry Wallah**.
+Live Site Link - https://laundrywallah24.netlify.app/
 
 ## 📌 About the Project
 
